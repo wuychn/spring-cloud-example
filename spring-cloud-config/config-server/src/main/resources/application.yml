@@ -8,7 +8,7 @@ spring:
         git:
           uri: https://github.com/wuychn/SpringCloudConfig
           searchPaths: respo
-          username: 852828554@qq.com
+          username: wuychn
           password:
       label: master
   application:
