@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-admin/admin-client/admin-client.iml" filepath="$PROJECT_DIR$/spring-boot-admin/admin-client/admin-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-admin/admin-server/admin-server-admin.iml" filepath="$PROJECT_DIR$/spring-boot-admin/admin-server/admin-server-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config/config-client/config-client-config.iml" filepath="$PROJECT_DIR$/spring-cloud-config/config-client/config-client-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config/config-server/config-server-config.iml" filepath="$PROJECT_DIR$/spring-cloud-config/config-server/config-server-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server-cluster/eureka-server-cluster.iml" filepath="$PROJECT_DIR$/eureka-server-cluster/eureka-server-cluster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config/eureka-server/eureka-server-config.iml" filepath="$PROJECT_DIR$/spring-cloud-config/eureka-server/eureka-server-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-feign/eureka-server/eureka-server-feign.iml" filepath="$PROJECT_DIR$/spring-cloud-feign/eureka-server/eureka-server-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-feign-hystrix/eureka-server/eureka-server-feign-hystrix.iml" filepath="$PROJECT_DIR$/spring-cloud-feign-hystrix/eureka-server/eureka-server-feign-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-resttemplate-hystrix/eureka-server/eureka-server-rest-hystrix.iml" filepath="$PROJECT_DIR$/spring-cloud-resttemplate-hystrix/eureka-server/eureka-server-rest-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-resttemplate/eureka-server/eureka-server-resttemplate.iml" filepath="$PROJECT_DIR$/spring-cloud-resttemplate/eureka-server/eureka-server-resttemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-sleuth/eureka-server/eureka-server-sleuth.iml" filepath="$PROJECT_DIR$/spring-cloud-sleuth/eureka-server/eureka-server-sleuth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-turbine/eureka-server/eureka-server-turbine.iml" filepath="$PROJECT_DIR$/spring-cloud-turbine/eureka-server/eureka-server-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-zuul/eureka-server/eureka-server-zuul.iml" filepath="$PROJECT_DIR$/spring-cloud-zuul/eureka-server/eureka-server-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-sleuth/gateway-service/gateway-service-sleuth.iml" filepath="$PROJECT_DIR$/spring-cloud-sleuth/gateway-service/gateway-service-sleuth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-turbine/turbine-monitor/monitor-turbine.iml" filepath="$PROJECT_DIR$/spring-cloud-turbine/turbine-monitor/monitor-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-feign/service-consumer/service-consumer-feign.iml" filepath="$PROJECT_DIR$/spring-cloud-feign/service-consumer/service-consumer-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-feign-hystrix/service-consumer/service-consumer-feign-hystrix.iml" filepath="$PROJECT_DIR$/spring-cloud-feign-hystrix/service-consumer/service-consumer-feign-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-turbine/service-consumer-hello/service-consumer-hello-turbine.iml" filepath="$PROJECT_DIR$/spring-cloud-turbine/service-consumer-hello/service-consumer-hello-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-zuul/service-consumer-hello/service-consumer-hello-zuul.iml" filepath="$PROJECT_DIR$/spring-cloud-zuul/service-consumer-hello/service-consumer-hello-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-turbine/service-consumer-hi/service-consumer-hi-turbine.iml" filepath="$PROJECT_DIR$/spring-cloud-turbine/service-consumer-hi/service-consumer-hi-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-zuul/service-consumer-hi/service-consumer-hi-zuul.iml" filepath="$PROJECT_DIR$/spring-cloud-zuul/service-consumer-hi/service-consumer-hi-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-resttemplate-hystrix/service-consumer/service-consumer-rest-hystrix.iml" filepath="$PROJECT_DIR$/spring-cloud-resttemplate-hystrix/service-consumer/service-consumer-rest-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-resttemplate/service-consumer/service-consumer-resttemplate.iml" filepath="$PROJECT_DIR$/spring-cloud-resttemplate/service-consumer/service-consumer-resttemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-feign/service-provider/service-provider-feign.iml" filepath="$PROJECT_DIR$/spring-cloud-feign/service-provider/service-provider-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-feign-hystrix/service-provider/service-provider-feign-hystrix.iml" filepath="$PROJECT_DIR$/spring-cloud-feign-hystrix/service-provider/service-provider-feign-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-resttemplate-hystrix/service-provider/service-provider-rest-hystrix.iml" filepath="$PROJECT_DIR$/spring-cloud-resttemplate-hystrix/service-provider/service-provider-rest-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-resttemplate/service-provider/service-provider-resttemplate.iml" filepath="$PROJECT_DIR$/spring-cloud-resttemplate/service-provider/service-provider-resttemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-turbine/service-provider/service-provider-turbine.iml" filepath="$PROJECT_DIR$/spring-cloud-turbine/service-provider/service-provider-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-zuul/service-provider/service-provider-zuul.iml" filepath="$PROJECT_DIR$/spring-cloud-zuul/service-provider/service-provider-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-zuul/service-zuul/service-zuul-zuul.iml" filepath="$PROJECT_DIR$/spring-cloud-zuul/service-zuul/service-zuul-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-admin/spring-boot-admin.iml" filepath="$PROJECT_DIR$/spring-boot-admin/spring-boot-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config/spring-cloud-config.iml" filepath="$PROJECT_DIR$/spring-cloud-config/spring-cloud-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign.iml" filepath="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-feign-hystrix/spring-cloud-feign-hystrix.iml" filepath="$PROJECT_DIR$/spring-cloud-feign-hystrix/spring-cloud-feign-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-resttemplate/spring-cloud-resttemplate.iml" filepath="$PROJECT_DIR$/spring-cloud-resttemplate/spring-cloud-resttemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-resttemplate-hystrix/spring-cloud-resttemplate-hystrix.iml" filepath="$PROJECT_DIR$/spring-cloud-resttemplate-hystrix/spring-cloud-resttemplate-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-sleuth/spring-cloud-sleuth.iml" filepath="$PROJECT_DIR$/spring-cloud-sleuth/spring-cloud-sleuth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-turbine/spring-cloud-turbine.iml" filepath="$PROJECT_DIR$/spring-cloud-turbine/spring-cloud-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul.iml" filepath="$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-sleuth/user-service/user-service-sleuth.iml" filepath="$PROJECT_DIR$/spring-cloud-sleuth/user-service/user-service-sleuth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-sleuth/zipkin-server/zipkin-server-sleuth.iml" filepath="$PROJECT_DIR$/spring-cloud-sleuth/zipkin-server/zipkin-server-sleuth.iml" />
+    </modules>
+  </component>
+</project>

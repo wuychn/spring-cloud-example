@@ -1,0 +1,14 @@
+server:
+  port: 9010
+spring:
+  application:
+    name: admin-client
+  boot:
+    admin:
+      client:
+        url: http://localhost:9009
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"

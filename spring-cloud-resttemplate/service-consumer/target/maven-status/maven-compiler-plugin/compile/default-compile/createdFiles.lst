@@ -1,0 +1,4 @@
+com\wuychn\config\RestTemplateConfig.class
+com\wuychn\controller\HiController.class
+com\wuychn\ServiceConsumerApplication.class
+com\wuychn\service\HiService.class

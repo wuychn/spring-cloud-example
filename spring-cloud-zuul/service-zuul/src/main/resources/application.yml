@@ -1,0 +1,20 @@
+server:
+  port: 9999
+spring:
+  application:
+    name: service-zuul
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:9001/eureka/
+zuul:
+  routes:
+    service-consumer-hi-api:
+      path: /hi/**
+      serviceId: service-consumer-hi
+    service-consumer-hello-api:
+      path: /hello/**
+      serviceId: service-consumer-hello
+    service-provider-api:
+      path: /origin/**
+      serviceId: service-provider

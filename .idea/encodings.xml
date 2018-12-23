@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/eureka-server-cluster" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-admin/admin-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-admin/admin-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-admin/eureka-client-one" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-admin/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config/config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config/config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-feign-hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-feign-hystrix/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-feign-hystrix/service-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-feign-hystrix/service-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-feign/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-feign/service-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-feign/service-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-resttemplate" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-resttemplate-hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-resttemplate-hystrix/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-resttemplate-hystrix/service-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-resttemplate-hystrix/service-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-resttemplate/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-resttemplate/service-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-resttemplate/service-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-sleuth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-sleuth/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-sleuth/gateway-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-sleuth/user-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-sleuth/zipkin-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-turbine" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-turbine/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-turbine/service-consumer-hello" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-turbine/service-consumer-hi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-turbine/service-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-turbine/turbine-monitor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zuul/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zuul/service-consumer-hello" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zuul/service-consumer-hi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zuul/service-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zuul/service-zuul" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

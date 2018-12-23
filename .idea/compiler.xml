@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="admin-client" />
+        <module name="admin-server-admin" />
+        <module name="config-client-config" />
+        <module name="config-server-config" />
+        <module name="eureka-server-cluster" />
+        <module name="eureka-server-config" />
+        <module name="eureka-server-feign" />
+        <module name="eureka-server-feign-hystrix" />
+        <module name="eureka-server-rest-hystrix" />
+        <module name="eureka-server-resttemplate" />
+        <module name="eureka-server-sleuth" />
+        <module name="eureka-server-turbine" />
+        <module name="eureka-server-zuul" />
+        <module name="gateway-service-sleuth" />
+        <module name="monitor-turbine" />
+        <module name="service-consumer-feign" />
+        <module name="service-consumer-feign-hystrix" />
+        <module name="service-consumer-hello-turbine" />
+        <module name="service-consumer-hello-zuul" />
+        <module name="service-consumer-hi-turbine" />
+        <module name="service-consumer-hi-zuul" />
+        <module name="service-consumer-rest-hystrix" />
+        <module name="service-consumer-resttemplate" />
+        <module name="service-provider-feign" />
+        <module name="service-provider-feign-hystrix" />
+        <module name="service-provider-rest-hystrix" />
+        <module name="service-provider-resttemplate" />
+        <module name="service-provider-turbine" />
+        <module name="service-provider-zuul" />
+        <module name="service-zuul-zuul" />
+        <module name="user-service-sleuth" />
+        <module name="zipkin-server-sleuth" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="admin-client" target="1.8" />
+      <module name="admin-server-admin" target="1.8" />
+      <module name="config-client-config" target="1.8" />
+      <module name="config-server-config" target="1.8" />
+      <module name="eureka-client-one-admin" target="1.8" />
+      <module name="eureka-server-admin" target="1.8" />
+      <module name="eureka-server-cluster" target="1.8" />
+      <module name="eureka-server-config" target="1.8" />
+      <module name="eureka-server-feign" target="1.8" />
+      <module name="eureka-server-feign-hystrix" target="1.8" />
+      <module name="eureka-server-rest-hystrix" target="1.8" />
+      <module name="eureka-server-resttemplate" target="1.8" />
+      <module name="eureka-server-sleuth" target="1.8" />
+      <module name="eureka-server-turbine" target="1.8" />
+      <module name="eureka-server-zuul" target="1.8" />
+      <module name="gateway-service-sleuth" target="1.8" />
+      <module name="monitor-turbine" target="1.8" />
+      <module name="service-consumer-feign" target="1.8" />
+      <module name="service-consumer-feign-hystrix" target="1.8" />
+      <module name="service-consumer-hello-turbine" target="1.8" />
+      <module name="service-consumer-hello-zuul" target="1.8" />
+      <module name="service-consumer-hi-turbine" target="1.8" />
+      <module name="service-consumer-hi-zuul" target="1.8" />
+      <module name="service-consumer-rest-hystrix" target="1.8" />
+      <module name="service-consumer-resttemplate" target="1.8" />
+      <module name="service-provider-feign" target="1.8" />
+      <module name="service-provider-feign-hystrix" target="1.8" />
+      <module name="service-provider-rest-hystrix" target="1.8" />
+      <module name="service-provider-resttemplate" target="1.8" />
+      <module name="service-provider-turbine" target="1.8" />
+      <module name="service-provider-zuul" target="1.8" />
+      <module name="service-zuul-zuul" target="1.8" />
+      <module name="spring-boot-admin" target="1.8" />
+      <module name="spring-cloud-config" target="1.8" />
+      <module name="spring-cloud-feign" target="1.8" />
+      <module name="spring-cloud-feign-hystrix" target="1.8" />
+      <module name="spring-cloud-resttemplate" target="1.8" />
+      <module name="spring-cloud-resttemplate-hystrix" target="1.8" />
+      <module name="spring-cloud-resttemplate-hyxtrix" target="1.8" />
+      <module name="spring-cloud-sleuth" target="1.8" />
+      <module name="spring-cloud-turbine" target="1.8" />
+      <module name="spring-cloud-zuul" target="1.8" />
+      <module name="user-service-sleuth" target="1.8" />
+      <module name="zipkin-server-sleuth" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

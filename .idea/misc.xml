@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/eureka-server-cluster/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-resttemplate/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-resttemplate-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-turbine/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-sleuth/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-admin/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/spring-boot-admin/eureka-client-one/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-admin/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-resttemplate/service-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-resttemplate/spring-cloud-feign/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

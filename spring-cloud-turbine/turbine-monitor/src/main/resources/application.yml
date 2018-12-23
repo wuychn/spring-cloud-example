@@ -1,0 +1,17 @@
+server:
+  port: 9006
+
+spring:
+  application:
+    name: turbine-monitor
+
+turbine:
+  aggregator:
+    clusterConfig: default
+  appConfig: service-consumer-hi,service-consumer-hello
+  clusterNameExpression: new String("default")
+  instanceUrlSuffix: /hystrix.stream
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:9001/eureka/

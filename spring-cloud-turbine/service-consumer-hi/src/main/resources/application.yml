@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: service-consumer-hi
+server:
+  port: 9004
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:9001/eureka/
+feign:
+  hystrix:
+    enabled: true
